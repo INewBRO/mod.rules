@@ -1,33 +1,50 @@
 body {
-  font-family: sans-serif;
+    font-family: sans-serif;
 }
 
 header p {
-  color: royalblue;
+    color: black;
 }
 
 header {
-  background-color: gray;
+    background-color: gray;
+    padding: 10px 0px 5px 10px;
 }
 
 main {
-  background-color: darkgray;
+    background-color: darkgray;
+    margin-top: 10px;
 }
 
 main p {
-  color: darkblue;
-  border-radius: 20px;
-  border: solid black;
+    color: darkblue;
 }
 
 footer {
-  background-color: black;
+    background-color: black;
 }
 
 footer p {
-  color: white;
+    color: white;
 }
 
 .rights {
-  text-align: right;
+    text-align: right;
+}
+
+main {
+    border-radius: 20px;
+    border: solid black;
+}
+
+header a {
+    text-decoration: none;
+    border: black solid;
+    border-radius: 10px;
+    color: yellow;
+    padding: 2px;
+}
+
+.zayavka {
+    color: yellow;
 }
