@@ -1,0 +1,33 @@
+body {
+  font-family: sans-serif;
+}
+
+header p {
+  color: royalblue;
+}
+
+header {
+  background-color: gray;
+}
+
+main {
+  background-color: darkgray;
+}
+
+main p {
+  color: darkblue;
+  border-radius: 20px;
+  border: solid black;
+}
+
+footer {
+  background-color: black;
+}
+
+footer p {
+  color: white;
+}
+
+.rights {
+  text-align: right;
+}
